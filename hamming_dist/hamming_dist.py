@@ -17,10 +17,3 @@ v2=BitArray(bin=val2)
 print "Binary form:\t",val1," - ",val2
 print "Decimal form:\t",int(val1,2)," - ",int(val2,2)
 print "Hamming distance is ",commpy.utilities.hamming_dist(v1,v2)
-
-
-#cd /Users/davidleifer/Desktop/davids_tensorflow/help_from_DanDoesData
-
-
-
-
